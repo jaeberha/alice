@@ -1,0 +1,41 @@
+PROP	PER	    Ma'am
+NOM 	GPE	    this New Zealand
+PROP	GPE	    Australia
+NOM	    PER	    dears
+NOM	    LOC	    the world
+NOM	    PER	    this mouse
+PROP	PER	    O Mouse
+NOM	    FAC	    this pool
+NOM	    PER	    the archbishop
+NOM	    PER	    my dear
+PROP	PER	    Dinah
+PROP	PER	    Mary Ann
+NOM	    FAC	    here
+PROP	PER	    Pat
+NOM	    PER	    Who 's to go down the chimney
+PROP	PER	    Bill
+NOM	    PER	    old fellow
+NOM	    PER	    a couple
+NOM	    PER	    a little girl
+NOM	    FAC	    home
+NOM	    GPE	    here
+NOM	    PER	    people
+NOM	    PER	    the Queen
+NOM	    PER	    the baby
+NOM	    PER	    people
+NOM	    PER	    child
+PROP	PER	    THESE
+NOM	    FAC	    here
+NOM	    PER	    the Duchess
+NOM	    PER	    the Queen
+PROP	PER	    the Mock Turtle
+PROP	PER	    Tortoise
+NOM	    PER	    another figure of the Lobster Quadrille
+PROP	PER	    the Mock Turtle
+NOM	    PER	    old fellow
+PROP	PER	    Pennyworth
+PROP	PER     Pennyworth
+NOM	    PER	    the Dormouse
+NOM	    PER	    the prisoner
+NOM	    PER	    your Majesty
+NOM	    PER	    my dear
